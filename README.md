@@ -1,7 +1,4 @@
-# Gpaisaje
-dotfile 
-
-# darkB - Hyprland Dotfiles
+# Gpaisaje - Hyprland Dotfiles
 ---
 ## Previews
 
