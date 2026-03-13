@@ -31,7 +31,7 @@ El script no copia archivos, sino que crea "punteros". Toma los archivos origina
 ### Requisitos para el cambio de tema
 Para que el script funcione correctamente sin errores, asegúrate de cumplir lo siguiente:
 
-1. **Wallpapers:** Los fondos deben estar en `~/Imágenes/wallpapers/` y tener el **mismo nombre** que el tema (ej: `darkB.jpg`).
+1. **Wallpapers:** Los fondos deben estar en `~/Imágenes/wallpapers/` y tener el **mismo nombre** que el tema (ej: `Gpaisaje.jpg`).
 2. **Estructura:** No borres las carpetas dentro de `themes/`, ya que el script las busca para crear los enlaces.
 3. **Recarga:** El script reinicia automáticamente `Waybar` y `SwayNC` para aplicar los cambios sin cerrar sesión.
 
@@ -53,8 +53,8 @@ Estos son los programas principales:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/L-Rush-C/darkB.git
-   cd darkB
+   git clone https://github.com/L-Rush-C/Gpaisaje.git
+   cd Gpaisaje
 
 2. **Copia las configuraciones:**
    ```bash
